@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/necofuryai"><img src="https://api.daily.dev/devcards/c22b1e0557db483bbbad8d7714a66c27.png?r=pc1" width="400" alt="Mashu Sakai's Dev Card"/></a>
 <!--
 **necofuryai/necofuryai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
