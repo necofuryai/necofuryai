@@ -6,19 +6,20 @@
 </dev>
 
 ## :star2: Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-xi-eight-57.vercel.app/api?username=page-o&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-xi-eight-57.vercel.app/api?username=page-o&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
+</dev>
 
 ## :computer: GitHub Top Languages Card
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-xi-eight-57.vercel.app/api/top-langs/?username=necofuryai&count_private=true&langs_count=10" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-xi-eight-57.vercel.app/api/top-langs/?username=necofuryai&count_private=true&langs_count=10" /></a>
+</div>
 
 ## :trophy: GitHub Profile Trophy
+<div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=necofuryai&theme=onedark" height="151px" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=necofuryai&theme=onedark" height="151px" /></a>
+</div>
 
 <!--
 **necofuryai/necofuryai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
