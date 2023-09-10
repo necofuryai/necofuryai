@@ -12,13 +12,13 @@
 
 ## :computer: GitHub Top Languages Card
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-xi-eight-57.vercel.app/api/top-langs/?username=necofuryai&count_private=true&langs_count=10" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-xi-eight-57.vercel.app/api/top-langs/?username=necofuryai&count_private=true" /></a>
 </div>
 
 ## :trophy: GitHub Profile Trophy
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=necofuryai&theme=onedark" height="151px" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=necofuryai&theme=onedark" /></a>
 </div>
 
 <!--
