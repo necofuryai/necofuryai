@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## :snake: GitHub Snake
-![github-contribution-grid-snake](https://raw.githubusercontent.com/necofuryai/necofuryai/main/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/necofuryai/necofuryai/master/img/snake.svg) 
 
 ## :star2: GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-xi-eight-57.vercel.app/api?username=page-o&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
