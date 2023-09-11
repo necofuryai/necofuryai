@@ -1,8 +1,5 @@
 # Hi there 👋
 
-## :credit_card: Daily.dev Card
-<a href="https://app.daily.dev/necofuryai"><img src="https://github.com/necofuryai/necofuryai/blob/main/devcard.svg" width="400" alt="Mashu Sakai's Dev Card"/></a>
-
 ## :star2: Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-xi-eight-57.vercel.app/api?username=page-o&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
 
