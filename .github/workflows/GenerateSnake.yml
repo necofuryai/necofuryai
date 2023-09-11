@@ -1,4 +1,10 @@
 name: GenerateSnake
+
+permissions:
+  actions: write
+  checks: write
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
