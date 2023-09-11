@@ -16,7 +16,7 @@
   />
 </picture>
 
-## :star2: GitHub Stats
+## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api?username=page-o&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
 
 ## :computer: GitHub Top Languages Card
