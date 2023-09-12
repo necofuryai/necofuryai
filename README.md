@@ -17,7 +17,7 @@
 </picture>
 
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api?username=page-o&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api?username=necofuryai&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
 
 ## :computer: GitHub Top Languages Card
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api/top-langs/?username=necofuryai&layout=donut&count_private=true&theme=blue-green" /></a>
