@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### Recent Activities :fire:
+### Recent Activities :rocket:
 
-[![necofuryai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![necofuryai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages :computer:
 
