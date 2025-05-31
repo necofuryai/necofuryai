@@ -1,7 +1,16 @@
 ## Hi there 👋
+
+### Recent Activities :fire:
+
+[![necofuryai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Languages :computer:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necofuryai&layout=donut&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-### Recent Activities
+### Achievement :trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :snake:
 <picture>
@@ -19,17 +28,7 @@
   />
 </picture>
 
-## 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api?username=necofuryai&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" height="158px" /></a>
-
-<!-- ## :computer: Top Languages Card
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api/top-langs/?username=necofuryai&layout=donut&count_private=true&theme=blue-green" /></a> -->
-
-
-## :trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=necofuryai&theme=onedark" /></a>
-
-<!--
+<!--📊
 **necofuryai/necofuryai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
