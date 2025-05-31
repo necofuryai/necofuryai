@@ -12,7 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :snake:
+### :snake: :snake: :snake:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
