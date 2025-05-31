@@ -1,6 +1,9 @@
-# Hi there 👋
+## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necofuryai&layout=donut&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-## :snake: Snake
+### Recent Activities
+
+### :snake:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -21,9 +24,9 @@
 
 <!-- ## :computer: Top Languages Card
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-rho-red.vercel.app/api/top-langs/?username=necofuryai&layout=donut&count_private=true&theme=blue-green" /></a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necofuryai&layout=donut&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-## :trophy: Profile Trophy
+
+## :trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=necofuryai&theme=onedark" /></a>
 
 <!--
