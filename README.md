@@ -3,7 +3,6 @@
 ### :rocket: Recent Activities
 
 ![Stats](./profile/stats.svg)
-![](https://github-readme-stats.vercel.app/api?username=necofuryai&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=tokyonight)
 ![](https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&theme=tokyo-night&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
