@@ -38,7 +38,7 @@
 
 ## :trophy: Achievements
 
-[![](https://github-profile-trophy-liard-delta.vercel.app/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy-fork-two.vercel.app/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
