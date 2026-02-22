@@ -5,7 +5,7 @@
 
 <br />
 
-## :rocket: Recent Activities
+## Recent Activities　:rocket:
 
 ![Stats](./profile/stats.svg)
 <br />
@@ -15,13 +15,13 @@
 
 <br />
 
-## :pencil2: My Best Skills
+## My Best Skills　:pencil2:
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&theme=dark" />
 
 <br />
 
-## :computer: Languages
+## Languages　:computer:
 
 ![](https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
@@ -36,7 +36,7 @@
 
 <be /> -->
 
-## :trophy: Achievements
+## Achievements　:trophy:
 
 [![](https://github-profile-trophy-fork-two.vercel.app/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
