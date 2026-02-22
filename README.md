@@ -29,12 +29,12 @@
 
 <br />
 
-## Contest
+<!-- ## Contest
 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
 ![](./kaggle-plates/Competitions/black.svg)
 
-<be />
+<be /> -->
 
 ## :trophy: Achievements
 
