@@ -6,6 +6,7 @@
 <br />
 
 ## Recent Activities　 :rocket:
+## Recent Activities :rocket:
 
 ![Stats](./profile/stats.svg)
 <br />
