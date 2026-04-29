@@ -38,7 +38,7 @@
 
 ## Achievements :trophy:
 
-[![](https://github-profile-trophy-kannan.vercel.app/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://trophy.benkou.dev/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
