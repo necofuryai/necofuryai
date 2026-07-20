@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -19,12 +19,28 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.README_STATS }}
 
-      - name: Generate top-langs card
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&custom_title=GitHub Stats&hide_border=true&theme=default
+          path: profile/stats-light.svg
+          token: ${{ secrets.README_STATS }}
+
+      - name: Generate top-langs card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&count_private=true&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
+          token: ${{ secrets.README_STATS }}
+
+      - name: Generate top-langs card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&count_private=true&show_icons=true&theme=default&hide_border=true
+          path: profile/top-langs-light.svg
           token: ${{ secrets.README_STATS }}
 
       - name: Commit cards

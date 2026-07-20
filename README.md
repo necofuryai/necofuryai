@@ -8,17 +8,38 @@
 ## Recent Activities :rocket:
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" width="700" />
+  <img
+    src="./profile/stats-light.svg#gh-light-mode-only"
+    alt="GitHub stats"
+    width="700"
+  />
+  <img
+    src="./profile/stats.svg#gh-dark-mode-only"
+    alt="GitHub stats"
+    width="700"
+  />
   <br />
   <img
-    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/github/0-profile-details.svg#gh-light-mode-only"
+    alt="GitHub profile details"
+    width="700"
+  />
+  <img
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/0-profile-details.svg#gh-dark-mode-only"
     alt="GitHub profile details"
     width="700"
   />
   <br />
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-night&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-day&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true#gh-light-mode-only"
+      alt="Contribution graph for the last 31 days"
+      width="700"
+    />
+  </a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-night&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true#gh-dark-mode-only"
       alt="Contribution graph for the last 31 days"
       width="700"
     />
@@ -31,7 +52,12 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=dark&amp;perline=10"
+    src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=light&amp;perline=10#gh-light-mode-only"
+    alt="My best skills"
+    width="554"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=dark&amp;perline=10#gh-dark-mode-only"
     alt="My best skills"
     width="554"
   />
@@ -43,17 +69,36 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only"
     alt="Top languages by repository"
     width="340"
   />
   <img
-    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg#gh-dark-mode-only"
+    alt="Top languages by repository"
+    width="340"
+  />
+  <img
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/github/2-most-commit-language.svg#gh-light-mode-only"
+    alt="Top languages by commit"
+    width="340"
+  />
+  <img
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg#gh-dark-mode-only"
     alt="Top languages by commit"
     width="340"
   />
   <br />
-  <img src="./profile/top-langs.svg" alt="Most used languages" width="340" />
+  <img
+    src="./profile/top-langs-light.svg#gh-light-mode-only"
+    alt="Most used languages"
+    width="340"
+  />
+  <img
+    src="./profile/top-langs.svg#gh-dark-mode-only"
+    alt="Most used languages"
+    width="340"
+  />
 </p>
 
 <br />
@@ -68,9 +113,16 @@
 ## Achievements :trophy:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
     <img
-      src="https://trophy.benkou.dev/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=onedark&amp;column=9"
+      src="https://trophy.benkou.dev/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=flat&amp;column=9#gh-light-mode-only"
+      alt="GitHub profile trophies"
+      width="100%"
+    />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+    <img
+      src="https://trophy.benkou.dev/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=onedark&amp;column=9#gh-dark-mode-only"
       alt="GitHub profile trophies"
       width="100%"
     />
@@ -81,21 +133,16 @@
 
 ## :snake: :snake: :snake:
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+  alt="GitHub contribution grid snake animation"
+  width="100%"
+/>
+<img
+  src="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+  alt="GitHub contribution grid snake animation"
+  width="100%"
+/>
 
 <br />
 
