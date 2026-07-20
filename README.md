@@ -7,25 +7,54 @@
 
 ## Recent Activities :rocket:
 
-![Stats](./profile/stats.svg)
-<br />
-![](https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-<br />
-[![](https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&theme=tokyo-night&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" width="700" />
+  <br />
+  <img
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="GitHub profile details"
+    width="700"
+  />
+  <br />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-night&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true"
+      alt="Contribution graph for the last 31 days"
+      width="700"
+    />
+  </a>
+</p>
 
 <br />
 
 ## My Best Skills :pencil2:
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&theme=dark" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=dark&amp;perline=10"
+    alt="My best skills"
+    width="554"
+  />
+</p>
 
 <br />
 
 ## Languages :computer:
 
-![](https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![Top Langs](./profile/top-langs.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Top languages by repository"
+    width="340"
+  />
+  <img
+    src="https://raw.githubusercontent.com/necofuryai/necofuryai/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    alt="Top languages by commit"
+    width="340"
+  />
+  <br />
+  <img src="./profile/top-langs.svg" alt="Most used languages" width="340" />
+</p>
 
 <br />
 
@@ -38,7 +67,15 @@
 
 ## Achievements :trophy:
 
-[![](https://trophy.benkou.dev/?username=necofuryai&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://trophy.benkou.dev/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=onedark&amp;column=9"
+      alt="GitHub profile trophies"
+      width="100%"
+    />
+  </a>
+</p>
 
 <br />
 
@@ -54,8 +91,9 @@
     srcset="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/necofuryai/necofuryai/output/github-contribution-grid-snake.svg"
+    width="100%"
   />
 </picture>
 
