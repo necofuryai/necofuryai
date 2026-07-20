@@ -51,16 +51,20 @@
 ## My Best Skills :pencil2:
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=light&amp;perline=10#gh-light-mode-only"
-    alt="My best skills"
-    width="554"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=dark&amp;perline=10#gh-dark-mode-only"
-    alt="My best skills"
-    width="554"
-  />
+  <a href="https://github.com/tandpfun/skill-icons#gh-light-mode-only">
+    <img
+      src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=light&amp;perline=10#gh-light-mode-only"
+      alt="My best skills"
+      width="554"
+    />
+  </a>
+  <a href="https://github.com/tandpfun/skill-icons#gh-dark-mode-only">
+    <img
+      src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,kubernetes,rust,go,py,lua,ts,bun,nextjs,postgres,mysql,vscode,figma,obsidian&amp;theme=dark&amp;perline=10#gh-dark-mode-only"
+      alt="My best skills"
+      width="554"
+    />
+  </a>
 </p>
 
 <br />
