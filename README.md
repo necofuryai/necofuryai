@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 My website's [link](https://necofuryai.io/).
+- 💻 My website's [link](https://necofuryai.dev/).
 - 🔭 I’m currently working as a Software Engineer.
 
 <br />
