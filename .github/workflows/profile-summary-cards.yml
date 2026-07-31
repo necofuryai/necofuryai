@@ -27,3 +27,5 @@ jobs:
           EXCLUDE: ""
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
           AUTO_PUSH: true
+          # NAME is optional, overrides the profile-details card title, which otherwise defaults to "login (name)" and gets elided at 22 characters
+          NAME: "necofuryai"
