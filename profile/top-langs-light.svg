@@ -133,7 +133,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 8.03%
+        TypeScript 8.04%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="72.66"
-          d="M 60.611373546589476 124.96818606574888 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="72.65"
+          d="M 60.61660060958883 125.00340500418945 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
@@ -176,8 +176,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="8.03"
-          d="M 63.583036219072135 96.83640470131871 A 56.66666666666667 56.66666666666667 0 0 0 60.611373546589476 124.96818606574888"
+          size="8.04"
+          d="M 63.583036219072135 96.83640470131871 A 56.66666666666667 56.66666666666667 0 0 0 60.61660060958883 125.00340500418945"
           stroke="#3178c6"
           fill="none"
           stroke-width="12">
