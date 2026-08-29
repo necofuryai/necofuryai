@@ -32,14 +32,14 @@
   <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-day&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true#gh-light-mode-only"
+      src="https://jeskei-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-day&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true#gh-light-mode-only"
       alt="Contribution graph for the last 31 days"
       width="700"
     />
   </a>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-night&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true#gh-dark-mode-only"
+      src="https://jeskei-readme-activity-graph.vercel.app/graph?username=necofuryai&amp;theme=tokyo-night&amp;custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&amp;hide_border=true#gh-dark-mode-only"
       alt="Contribution graph for the last 31 days"
       width="700"
     />
@@ -119,14 +119,14 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
     <img
-      src="https://trophy.benkou.dev/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=flat&amp;column=9#gh-light-mode-only"
+      src="https://trophy.ryglcloud.net/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=flat&amp;column=9#gh-light-mode-only"
       alt="GitHub profile trophies"
       width="100%"
     />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img
-      src="https://trophy.benkou.dev/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=onedark&amp;column=9#gh-dark-mode-only"
+      src="https://trophy.ryglcloud.net/?username=necofuryai&amp;no-frame=true&amp;no-bg=true&amp;theme=onedark&amp;column=9#gh-dark-mode-only"
       alt="GitHub profile trophies"
       width="100%"
     />
